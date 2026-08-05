@@ -87,12 +87,12 @@ See [docs/healthcare-module.md](./docs/healthcare-module.md) and [docs/data-qual
 
 > Replace the placeholders below with real captures (`docs/assets/`) once available.
 
-| View | Placeholder |
+| View | Screenshot |
 | --- | --- |
-| Accessibility dashboard | `![Accessibility dashboard](docs/assets/screenshot-dashboard.png)` |
-| Emergency navigation | `![Emergency navigation](docs/assets/screenshot-navigation.png)` |
-| OSM data quality | `![Data quality](docs/assets/screenshot-quality.png)` |
-| Quality report export | `![HTML report](docs/assets/screenshot-report.png)` |
+| Accessibility dashboard | ![Accessibility dashboard](docs/assets/screenshot-dashboard.png) |
+| Emergency navigation | ![Emergency navigation](docs/assets/screenshot-navigation.png) |
+| OSM data quality | ![Data quality](docs/assets/screenshot-quality.png) |
+| Quality report export | ![HTML report](docs/assets/screenshot-report.png) |
 
 ## Technology Stack
 
