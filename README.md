@@ -85,7 +85,7 @@ See [docs/healthcare-module.md](./docs/healthcare-module.md) and [docs/data-qual
 
 ## Screenshots
 
-> Replace the placeholders below with real captures (`docs/assets/`) once available.
+
 
 | View | Screenshot |
 | --- | --- |
