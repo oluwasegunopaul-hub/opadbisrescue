@@ -82,6 +82,16 @@ export const Route = createFileRoute("/quality")({
         content:
           "Healthcare data quality intelligence for OpenStreetMap contributors, NGOs and government agencies.",
       },
+      { property: "og:type", content: "website" },
+      { property: "og:image", content: "https://healthaccess.lovable.app/opadbisrescue-og.png" },
+      { name: "twitter:card", content: "summary_large_image" },
+      { name: "twitter:title", content: "OSM Data Quality — opadbisrescue" },
+      {
+        name: "twitter:description",
+        content:
+          "Healthcare data quality intelligence for OpenStreetMap contributors, NGOs and government agencies.",
+      },
+      { name: "twitter:image", content: "https://healthaccess.lovable.app/opadbisrescue-og.png" },
     ],
   }),
   component: QualityDashboard,

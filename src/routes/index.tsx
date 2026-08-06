@@ -34,6 +34,16 @@ export const Route = createFileRoute("/")({
         content:
           "Enterprise GIS dashboard mapping healthcare accessibility and emergency response across Nigeria using OpenStreetMap data.",
       },
+      { property: "og:type", content: "website" },
+      { property: "og:image", content: "https://healthaccess.lovable.app/opadbisrescue-og.png" },
+      { name: "twitter:card", content: "summary_large_image" },
+      { name: "twitter:title", content: "opadbisrescue — Healthcare Accessibility GIS" },
+      {
+        name: "twitter:description",
+        content:
+          "Enterprise GIS dashboard mapping healthcare accessibility and emergency response across Nigeria using OpenStreetMap data.",
+      },
+      { name: "twitter:image", content: "https://healthaccess.lovable.app/opadbisrescue-og.png" },
     ],
   }),
   component: Dashboard,

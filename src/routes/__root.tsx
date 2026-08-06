@@ -94,8 +94,6 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
       { name: "twitter:card", content: "summary_large_image" },
       { name: "twitter:title", content: "opadbisrescue — Healthcare Accessibility GIS" },
       { name: "twitter:description", content: "Enterprise GIS dashboard mapping healthcare accessibility and emergency response across Nigeria using OpenStreetMap data." },
-      { property: "og:image", content: "https://storage.googleapis.com/gpt-engineer-file-uploads/attachments/og-images/052c9322-4ab0-4f79-b56d-7239e11f97fe" },
-      { name: "twitter:image", content: "https://storage.googleapis.com/gpt-engineer-file-uploads/attachments/og-images/052c9322-4ab0-4f79-b56d-7239e11f97fe" },
     ],
     links: [
       { rel: "stylesheet", href: appCss },
