@@ -228,5 +228,5 @@ OpenStreetMap data is © OpenStreetMap contributors and licensed under the [Open
 
 | Name | Role |
 | --- | --- |
-| _Project maintainer_ | Architecture, GIS modelling, implementation |
+| _Paul Adebisi_ | Project Lead & GIS Developer —Architecture, GIS modelling, implementation |
 | _Open to contributors_ | See [CONTRIBUTING.md](./CONTRIBUTING.md) |
