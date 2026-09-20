@@ -93,7 +93,7 @@ type State = {
 export const useStore = create<State>((set) => ({
   nav: "dashboard",
   setNav: (nav) => set({ nav }),
-  basemap: "carto-light",
+  basemap: "esri-imagery",
   setBasemap: (basemap) => set({ basemap }),
   theme: "light",
   toggleTheme: () =>
