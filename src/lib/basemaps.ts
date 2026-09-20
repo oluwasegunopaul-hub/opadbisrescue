@@ -63,5 +63,5 @@ export const BASEMAPS: Record<BasemapKey, BasemapDef> = Object.fromEntries(
 ) as Record<BasemapKey, BasemapDef>;
 
 export function getBasemap(key: string): BasemapDef {
-  return BASEMAPS[key as BasemapKey] ?? BASEMAPS["carto-light"];
+  return BASEMAPS[key as BasemapKey] ?? BASEMAPS["esri-imagery"];
 }
