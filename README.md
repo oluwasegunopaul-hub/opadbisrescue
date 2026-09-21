@@ -229,4 +229,5 @@ OpenStreetMap data is © OpenStreetMap contributors and licensed under the [Open
 | Name | Role |
 | --- | --- |
 | _Paul Adebisi_ | Project Lead & GIS Developer —Architecture, GIS modelling, implementation |
+| _Olasunkanmi Oladejo_ | Co-creator - Originated the project idea and provided key insights that shaped its direction and development |
 | _Open to contributors_ | See [CONTRIBUTING.md](./CONTRIBUTING.md) |
